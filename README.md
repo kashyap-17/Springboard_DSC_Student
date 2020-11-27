@@ -1,6 +1,7 @@
 # Springboard_DSC_Student
 Useful commangs for git:
-The 4 Commands You Need To Know
+The 5 Commands You Need To Know
+- Git clone
 - git status: shows status of tracked and untracked files
 - git add [filename]: adds file to current commit
 - git commit -m '[message]': add commit locally
